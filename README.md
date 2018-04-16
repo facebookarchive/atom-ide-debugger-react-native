@@ -1,6 +1,6 @@
 # atom-ide-debugger-react-native
 
-OCaml Debugger for Atom IDE.
+React Native Debugger for Atom IDE.
 
 ## Usage
 
